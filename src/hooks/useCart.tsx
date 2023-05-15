@@ -1,9 +1,9 @@
-import { useContext } from 'react';
+import { useContext } from 'react'
 
-import { CartContext, CartContextDataProps } from '../contexts/CartContext';
+import { CartContext, CartContextDataProps } from '../contexts/CartContext'
 
 export function useCart(): CartContextDataProps {
-  const context = useContext(CartContext);
+  const context = useContext(CartContext)
 
-  return context;
+  return context
 }
