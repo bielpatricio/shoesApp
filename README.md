@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <img src="src/assets/nike.png" alt="Logo">
+  <img src="src/assets/brands/nike.png" alt="Logo">
   <h1 align="center">Shoes App</h3>
 </div>
 
